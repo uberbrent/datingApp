@@ -71,3 +71,6 @@
 /Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
 /Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/Data/UserSeedData.json
+/Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
