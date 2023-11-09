@@ -74,3 +74,5 @@
 /Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/Data/UserSeedData.json
 /Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/AutoMapper.dll
 /Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/CloudinaryDotNet.dll
+/Users/uberbrent/Documents/dating-app/API/bin/Debug/net7.0/Newtonsoft.Json.dll
